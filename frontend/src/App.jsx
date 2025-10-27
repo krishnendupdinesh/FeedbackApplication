@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { FaEdit,FaTrashAlt } from 'react-icons/fa'
 
-const API_URL = "http://localhost:4000/comments";
+const API_URL = "http://localhost:4001/comments";
 
 const App = () => {
 
