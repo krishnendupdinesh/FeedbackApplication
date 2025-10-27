@@ -1,0 +1,16 @@
+{
+  "comments": [
+    {
+      "id": "6592",
+      "name": "Alice",
+      "text": "This is the first Comment",
+      "rating": 3
+    },
+    {
+      "id": "dd10",
+      "name": "George",
+      "text": "Happy",
+      "rating": 5
+    }
+  ]
+}
